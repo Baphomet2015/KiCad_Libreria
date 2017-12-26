@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LM741
+D Op amp
+K Ampliop
+F AmpliOp.sch
+$ENDCMP
+#
+$CMP OP07CP
+D Op amp
+K Ampliop
+F AmpliOp.sch
+$ENDCMP
+#
 #End Doc Library
