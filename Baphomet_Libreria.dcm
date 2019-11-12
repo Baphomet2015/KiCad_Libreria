@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AD9833
+D AD9833, Module, Programmable Generator Wave
+$ENDCMP
+#
 $CMP OP07CP
 D Op amp
 K Ampliop
