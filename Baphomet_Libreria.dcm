@@ -1,7 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 4N26
+D DIP6, DC Optocoupler Base Connected, Vce 30V, CTR 20%, Viso 1500V
+K NPN DC Optocoupler Base Connected
+$ENDCMP
+#
 $CMP AD9833
 D AD9833, Module, Programmable Generator Wave
+$ENDCMP
+#
+$CMP LCA110
+D DIP6, DC Optocoupler Base Connected, Vce 30V, CTR 20%, Viso 1500V
+K NPN DC Optocoupler Base Connected
 $ENDCMP
 #
 $CMP OP07CP
