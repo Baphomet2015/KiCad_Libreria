@@ -9,6 +9,12 @@ $CMP AD9833
 D AD9833, Module, Programmable Generator Wave
 $ENDCMP
 #
+$CMP AZ850P1-x
+D Microminiature Polarised Dual Pole Relay Bistable
+K Miniature Polarised Relay Dual Pole Bistable
+F http://www.azettler.com/pdfs/az850.pdf
+$ENDCMP
+#
 $CMP LCA110
 D DIP6, DC Optocoupler Base Connected, Vce 30V, CTR 20%, Viso 1500V
 K NPN DC Optocoupler Base Connected
@@ -18,6 +24,12 @@ $CMP OP07CP
 D Op amp
 K Ampliop
 F AmpliOp.sch
+$ENDCMP
+#
+$CMP RELE_TX2-L2-5V
+D Microminiature Polarised Dual Pole Relay
+K Miniature Polarised Relay Dual Pole
+F http://www.azettler.com/pdfs/az850.pdf
 $ENDCMP
 #
 #End Doc Library

@@ -20,4 +20,10 @@ K Ampliop
 F AmpliOp.sch
 $ENDCMP
 #
+$CMP RELE_TX2-L2-5V
+D Microminiature Polarised Dual Pole Relay
+K Miniature Polarised Relay Dual Pole
+F http://www.azettler.com/pdfs/az850.pdf
+$ENDCMP
+#
 #End Doc Library
